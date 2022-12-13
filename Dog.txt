@@ -1,0 +1,6 @@
+Dog: 
+    Name: Malia
+    Sex: Female
+    Age: 4 y.o
+    Color: null
+    Dog is a mongrel: false

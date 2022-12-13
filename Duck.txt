@@ -1,0 +1,5 @@
+Duck: 
+    Name: Donald
+    Sex: Male
+    Age: 6 y.o
+    Color: purple
